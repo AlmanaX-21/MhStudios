@@ -14,7 +14,7 @@ import org.slf4j.Logger;
         description = "Basic rank forwarding for Minehut Studios server",
         authors = {"AlmanaX21"}
 )
-public class MhStudios {
+public class mhstudios {
 
     public Logger logger;
     public ProxyServer server;
